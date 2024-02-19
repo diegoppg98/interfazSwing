@@ -27,7 +27,7 @@ public class VentanaPrincipal {
 
 
 	/**
-	 * Launch the application.
+	 * Launch the application. CAMBIADO
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
